@@ -37,7 +37,9 @@
 
 ---
 
-## 🎮 Un poco de diversión
-<iframe src="https://open.spotify.com/embed/artist/1m7BzmJ4jUGlJX2kURz9H9" width="300" height="380" frameBorder="0" allow="encrypted-media"></iframe>
+🎵 **Actualmente escuchando**:  
+¡Disfrutando de la música de Eladio Carrión! 🎶
+
+[![Escucha Eladio Carrión en Spotify](https://i.scdn.co/image/ab6761610000e5eb9b885e1c1cccf233722a987b)](https://open.spotify.com/artist/1m7BzmJ4jUGlJX2kURz9H9)
 
 💡 *Siempre aprendiendo y compartiendo conocimiento. ¡Conéctate conmigo!* 🚀
