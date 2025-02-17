@@ -9,7 +9,7 @@
 ## 📊 Mis estadísticas en GitHub  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidgs04&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidgs04&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
@@ -23,7 +23,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
 ### 🚀 Lenguajes y herramientas  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,react,vue,nodejs,express,mysql,mongodb,git,github,vscode" />
