@@ -1,4 +1,4 @@
-<h1 align="center">✨ ¡Hola, soy [David]! ✨</h1>
+<h1 align="center">✨ ¡Hola, soy David! ✨</h1>
 <p align="center">
   🚀 Desarrollador apasionado por la tecnología y el código limpio.  
   🎯 Siempre aprendiendo algo nuevo y explorando el mundo del desarrollo web.  
