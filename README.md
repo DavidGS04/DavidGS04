@@ -30,8 +30,7 @@
 ---
 
 ## 🔗 Encuéntrame en
-<p>🌎 <a href="https://davidgs04.github.io/erdavid04.github.io/" target="_blank">Página Web</a></p>
-<p>📧 <a href="mailto:dgarsua0909@g.educaand.es">Email</a></p>
+<p>🌎 <a href="https://davidgs04.github.io/erdavid04.github.io/" target="_blank" style="display: inline-block; margin-right: 20px;">Página Web</a> 📧 <a href="mailto:dgarsua0909@g.educaand.es" style="display: inline-block;">Email</a></p>
 
 ---
 
