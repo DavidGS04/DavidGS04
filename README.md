@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Lenguajes y herramientas  
+### 🛠️ Lenguajes y herramientas  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,react,vue,nodejs,express,mysql,mongodb,git,github,vscode" />
 </p>
