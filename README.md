@@ -38,8 +38,7 @@
 ---
 
 🎵 **Actualmente escuchando**:  
-¡Disfrutando de la música de Eladio Carrión! 🎶
 
-[![Escucha Eladio Carrión en Spotify](https://i.scdn.co/image/ab6761610000e5eb9b885e1c1cccf233722a987b)](https://open.spotify.com/artist/1m7BzmJ4jUGlJX2kURz9H9)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31piklw352s5noozfvqmundxwrcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 💡 *Siempre aprendiendo y compartiendo conocimiento. ¡Conéctate conmigo!* 🚀
