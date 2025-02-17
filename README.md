@@ -15,11 +15,11 @@
 ---
 
 ## 🚀 Sobre mí  
-- 🎓 **Estudiante de [Tu Carrera]**  
+- 🎓 **Estudiante de Desarrollo de Aplicaciones Web**  
 - 💻 **Desarrollador Web | Frontend & Backend**  
-- 🌱 **Aprendiendo actualmente:** [Tecnologías que estás aprendiendo]  
+- 🌱 **Aprendiendo actualmente:** HTML, XML, PHP, JAVASCRIPT, JAVA, SQL.
 - 📌 **Intereses:** Desarrollo Web, Inteligencia Artificial, Ciberseguridad  
-- ⚡ **Dato curioso:** [Algo interesante sobre ti]  
+- ⚡ **Dato curioso:** Soy youtuber😁
 
 ---
 
@@ -32,10 +32,10 @@
 ---
 
 ## 🔗 Encuéntrame en  
-🌎 [Tu Sitio Web o Portafolio](https://tusitio.com)  
-🐦 [Twitter](https://twitter.com/tuusuario)  
-👔 [LinkedIn](https://linkedin.com/in/tuusuario)  
-📧 [Email](mailto:tuemail@gmail.com)  
+🌎 [Página Web](https://davidgs04.github.io/erdavid04.github.io/)
+🐦 [Twitter](https://twitter.com/tuusuario)
+👔 [LinkedIn](https://linkedin.com/in/tuusuario)
+📧 [Email](mailto:dgarsua0909@g.educaand.es)
 
 ---
 
