@@ -31,13 +31,12 @@
 
 ## 🔗 Encuéntrame en
 🌎 [Página Web](https://davidgs04.github.io/erdavid04.github.io/)
-🐦 [Twitter](https://twitter.com/tuusuario)
-👔 [LinkedIn](https://linkedin.com/in/tuusuario)
+👔 [LinkedIn](https://linkedin.com/in/erdavid04)
 📧 [Email](mailto:dgarsua0909@g.educaand.es)
 
 ---
 
-## 🎵 Actualmente escuchando:
+## 🎵 Actualmente escuchando
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31piklw352s5noozfvqmundxwrcu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
