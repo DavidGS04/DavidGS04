@@ -43,9 +43,4 @@
   <img src="[https://spotify-github-profile.vercel.app/api/view?uid=eladiocarrion](https://open.spotify.com/intl-es/artist/5XJDexmWFLWOkjOEjOVX3e)&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
-😎 **Random Quote:**  
-> _"La mejor manera de predecir el futuro es crearlo." – Alan Kay_  
-
----
-
 💡 *Siempre aprendiendo y compartiendo conocimiento. ¡Conéctate conmigo!* 🚀  
