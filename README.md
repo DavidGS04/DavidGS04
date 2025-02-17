@@ -40,7 +40,7 @@
 
 ## 🎮 Un poco de diversión  
 <p align="center">
-  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=eladiocarrion]([https://open.spotify.com/intl-es/artist/5XJDexmWFLWOkjOEjOVX3e](https://open.spotify.com/intl-es/track/0MJ9rq9zMOe0G7eL3j5w8G?si=310a9efa019741ec))&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  <img src="[https://open.spotify.com/intl-es/artist/5XJDexmWFLWOkjOEjOVX3e?si=Ge31CbvIRbOXviqIzL9DAw]([https://open.spotify.com/intl-es/artist/5XJDexmWFLWOkjOEjOVX3e](https://open.spotify.com/intl-es/track/0MJ9rq9zMOe0G7eL3j5w8G?si=310a9efa019741ec))&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 💡 *Siempre aprendiendo y compartiendo conocimiento. ¡Conéctate conmigo!* 🚀  
