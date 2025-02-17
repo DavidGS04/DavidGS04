@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mí
 - 🎓 **Estudiante de Desarrollo de Aplicaciones Web**
-- 💻 **Desarrollador Web | Frontend & Backend**
+- 💻 **Desarrollador Web | Técnico Informático**
 - 🌱 **Aprendiendo actualmente:** HTML, XML, PHP, JAVASCRIPT, JAVA, SQL.
 - 📌 **Intereses:** Desarrollo Web, Inteligencia Artificial, Ciberseguridad.
 
