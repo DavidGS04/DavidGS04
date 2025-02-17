@@ -42,5 +42,5 @@
 <p align="center">
   [![Escucha Eladio Carrión en Spotify](https://img.shields.io/badge/Eladio_Carrión-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/1m7BzmJ4jUGlJX2kURz9H9)
 </p>
-
+  [![Escucha Eladio Carrión en Spotify](https://img.shields.io/badge/Eladio_Carrión-Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/1m7BzmJ4jUGlJX2kURz9H9)
 💡 *Siempre aprendiendo y compartiendo conocimiento. ¡Conéctate conmigo!* 🚀  
