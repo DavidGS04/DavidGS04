@@ -30,7 +30,8 @@
 ---
 
 ## 🔗 Mis Proyectos
-<p>🌎 <a href="https://davidgs04.github.io/erdavid04.github.io/" target="_blank" style="display: inline-block; margin-right: 20px;">erdavid04.github.io</a> <a href="https://davidgs04.github.io/ProyectoBootstrap/" target="_blank" style="display: inline-block; margin-right: 20px;">ProyectoBootstrap</a></p>
+<p>🌎 <a href="https://davidgs04.github.io/erdavid04.github.io/" target="_blank" style="display: inline-block; margin-right: 20px;">erdavid04.github.io</a><br>
+🌎 <a href="https://davidgs04.github.io/ProyectoBootstrap/" target="_blank" style="display: inline-block; margin-right: 20px;">ProyectoBootstrap</a></p>
 
 ---
 
