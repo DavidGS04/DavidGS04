@@ -11,7 +11,8 @@
 - 📌 **Intereses:** Programación, Desarrollo Web, Inteligencia Artificial, Ciberseguridad.
 
 
-| ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidgs04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgs04&layout=compact&theme=radical&hide_title=true) |
+## 📊 Mis estadísticas en GitHub
+| ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidgs04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) | ![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgs04&layout=compact&theme=radical&hide_title=true) |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | **Resumen de Actividad**                                     | **Lenguajes más Usados**                                                                                                  |
 | **🌟 Estrellas**: ![Estrellas](https://img.shields.io/github/stars/jaqutay680?style=flat-square) | **🔄 Repositorios:** ![Repos](https://img.shields.io/github/followers/jaqutay680?style=flat-square) |
