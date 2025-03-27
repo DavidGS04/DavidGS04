@@ -15,7 +15,7 @@
 | ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidgs04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) | ![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgs04&layout=compact&theme=radical&hide_title=true) |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | **Resumen de Actividad**                                     | **Lenguajes más Usados**                                                                                                  |
-| **🌟 Estrellas**: ![Estrellas](https://img.shields.io/github/stars/jaqutay680?style=flat-square) | **🔄 Repositorios:** ![Repos](https://img.shields.io/github/followers/jaqutay680?style=flat-square) |
+| **🌟 Estrellas**: ![Estrellas](https://img.shields.io/github/stars/davidgs04?style=flat-square) | **🔄 Repositorios:** ![Repos](https://img.shields.io/github/followers/davidgs04?style=flat-square) |
 
 
 
