@@ -21,8 +21,9 @@
 
 ## 🛠️ Lenguajes y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,react,vue,nodejs,express,mysql,mongodb,git,github,vscode" />
-  <img src="https://static.vecteezy.com/system/resources/previews/014/030/181/large_2x/programming-language-icons-set-css-html-javascript-isolated-editorial-illustration-on-white-vector.jpg" width="400px"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,angular,androidstudio,ansible,apple,azure,bootstrap,cpp,css,discord,bots,eclipse,gcp,git,github,gmail,html,ai,instagram,java,js,kali,linkedin,linux,mint,mysql,nodejs,ps,php,powershell,pr,py,sublime,svg,twitter,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress," />
+  </a>
 </p>
 
 
