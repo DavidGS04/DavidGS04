@@ -20,11 +20,14 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <p align="center">
-  🌟 **Estrellas:** ![Estrellas](https://img.shields.io/github/stars/davidgs04?style=flat-square)  
-  🔄 **Seguidores:** ![Seguidores](https://img.shields.io/github/followers/davidgs04?style=flat-square)
+  🌟 **Estrellas:**  
+  <img src="https://img.shields.io/github/stars/davidgs04?label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />  
+  🔄 **Seguidores:**  
+  <img src="https://img.shields.io/github/followers/davidgs04?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
 </p>
 
 ---
+
 
 ## 🛠️ Lenguajes y herramientas
 <p align="center">
@@ -36,8 +39,9 @@
 ---
 
 ## 🔗 Mis Proyectos
-🌎 [**Portafolio personal**](https://davidgs04.github.io/erdavid04.github.io/)  
+🌎 [**Portafolio**](https://davidgs04.github.io/erdavid04.github.io/)  
 🌎 [**Proyecto Bootstrap**](https://davidgs04.github.io/ProyectoBootstrap/)
+🌎 [**ErCatálogo**](https://erdavid04.github.io/ercatalogo/)
 
 ---
 
