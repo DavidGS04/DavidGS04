@@ -20,14 +20,11 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <p align="center">
-  🌟 **Estrellas:**  
-  <img src="https://img.shields.io/github/stars/davidgs04?label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />  
-  🔄 **Seguidores:**  
-  <img src="https://img.shields.io/github/followers/davidgs04?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/davidgs04?label=🌟%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/davidgs04?label=🔄%20Followers&style=flat-square&logo=github" alt="GitHub Followers" />
 </p>
 
 ---
-
 
 ## 🛠️ Lenguajes y herramientas
 <p align="center">
