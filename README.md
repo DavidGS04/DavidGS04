@@ -42,7 +42,7 @@
 
 ---
 
-## 🎵 Actualmente escuchando en Spotify
+## 🎵 Actualmente escuchando
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pth43atwgmm7a4xedzwtttvgnu&cover_image=true&theme=apple&show_offline=false&background_color=1a9cff&interchange=false&profanity=false&mode=light" alt="Spotify Now Playing" />
