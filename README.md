@@ -15,17 +15,6 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DavidGS04&show_icons=true&count_private=true&theme=radical) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGS04&layout=compact&theme=radical) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/DavidGS04?label=🌟%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/DavidGS04?label=🔄%20Followers&style=flat-square&logo=github" alt="GitHub Followers" />
-</p>
-
----
-
 ## 🛠️ Lenguajes y herramientas
 <p align="center">
   <a href="https://skillicons.dev">
