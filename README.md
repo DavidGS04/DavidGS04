@@ -25,8 +25,8 @@
 ---
 
 ## 📌 Tareas
-📂 [**Despliegue de Aplicaciones Web**](https://github.com/DavidGS04/DespliegueDeAplicacionesWeb)  
-📂 [**Lenguaje de Marcas**](https://github.com/DavidGS04/LenguajeMarcas)
+📂 <a href="https://github.com/DavidGS04/DespliegueDeAplicacionesWeb" target="_blank">**Despliegue de Aplicaciones Web**</a>  
+📂 <a href="https://github.com/DavidGS04/LenguajeMarcas" target="_blank">**Lenguaje de Marcas**</a>
 
 ---
 
