@@ -25,14 +25,15 @@
 ---
 
 ## 📌 Tareas
-📂 <a href="https://github.com/DavidGS04/DespliegueDeAplicacionesWeb" target="_blank">**Despliegue de Aplicaciones Web**</a>  
-📂 <a href="https://github.com/DavidGS04/LenguajeMarcas" target="_blank">**Lenguaje de Marcas**</a>
+📂 [**Despliegue de Aplicaciones Web**](https://github.com/DavidGS04/DespliegueDeAplicacionesWeb)  
+📂 [**Lenguaje de Marcas**](https://github.com/DavidGS04/LenguajeMarcas)
 
 ---
 
 ## 🔗 Mis Proyectos
-🌎 [**Portafolio**](https://davidgs04.github.io/erdavid04.github.io/)  
+🌎 [**Portafolio**](https://davidgs04.github.io/erdavid04.github.io/)
 🌎 [**Proyecto Bootstrap**](https://davidgs04.github.io/ProyectoBootstrap/)
+🌎 [**Proyecto XML**](https://davidgs04.github.io/ProyectoXML/)
 🌎 [**ErCatálogo**](https://erdavid04.github.io/ercatalogo/)
 
 ---
