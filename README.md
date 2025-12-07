@@ -24,6 +24,12 @@
 
 ---
 
+## 📌 Tareas
+📂 [**Despliegue de Aplicaciones Web**](https://github.com/DavidGS04/DespliegueDeAplicacionesWeb)  
+📂 [**Lenguaje de Marcas**](https://github.com/DavidGS04/LenguajeMarcas)
+
+---
+
 ## 🔗 Mis Proyectos
 🌎 [**Portafolio**](https://davidgs04.github.io/erdavid04.github.io/)  
 🌎 [**Proyecto Bootstrap**](https://davidgs04.github.io/ProyectoBootstrap/)
