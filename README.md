@@ -24,7 +24,7 @@
 
 ---
 
-## 📌 Tareas
+## 📌 Asignaturas
 📂 [**Despliegue de Aplicaciones Web**](https://github.com/DavidGS04/DespliegueDeAplicacionesWeb)  
 📂 [**Lenguaje de Marcas**](https://github.com/DavidGS04/LenguajeMarcas)
 
@@ -34,7 +34,6 @@
 🌎 [**Portafolio**](https://davidgs04.github.io/erdavid04.github.io/)
 🌎 [**Proyecto Bootstrap**](https://davidgs04.github.io/ProyectoBootstrap/)
 🌎 [**Proyecto XML**](https://davidgs04.github.io/ProyectoXML/)
-🌎 [**ErCatálogo**](https://erdavid04.github.io/ercatalogo/)
 
 ---
 
